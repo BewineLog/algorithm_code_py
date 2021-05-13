@@ -1,3 +1,6 @@
+"""
+fixed_stack.py의 main함수 입니다.
+"""
 from enum import Enum
 from fixed_stack import FixedStack
 
